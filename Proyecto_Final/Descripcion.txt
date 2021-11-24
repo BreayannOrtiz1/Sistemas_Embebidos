@@ -1,0 +1,1 @@
+En este repositorio se encuentra el Código implementado como solución al problema plantado como proyecto de la asignatura sistemas embebidos, para más información sobre el desarrollo del proyecto puede consultar el PDF.
